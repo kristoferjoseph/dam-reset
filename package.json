@@ -4,7 +4,7 @@
   "description": "Minimal reset CSS",
   "main": "style.css",
   "scripts": {
-    "test": "test"
+    "test": ""
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/kristoferjoseph/dam-reset/issues"
   },
-  "homepage": "https://github.com/kristoferjoseph/dam-reset#readme"
+  "homepage": "https://github.com/kristoferjoseph/dam-reset#readme",
+  "devDependencies": {}
 }
