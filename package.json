@@ -1,0 +1,23 @@
+{
+  "name": "dam-reset",
+  "version": "1.0.0",
+  "description": "Minimal reset CSS",
+  "main": "style.css",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoferjoseph/dam-reset.git"
+  },
+  "keywords": [
+    "CSS",
+    "reset"
+  ],
+  "author": "@dam",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/dam-reset/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/dam-reset#readme"
+}
