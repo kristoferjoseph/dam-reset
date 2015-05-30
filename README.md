@@ -18,7 +18,7 @@ etc.
 ```css
 @import "dam-reset";
 ```
-
+## OR
 Link to it:
 `<link rel="stylesheet" href="node_modules/dam-reset/style.css">`
 
